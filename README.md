@@ -30,7 +30,7 @@ Run the command below and deploy the application to running LocalStack instance.
 serverless deploy --verbose --stage local
 ```
 
-## Runnin the application
+## Running the application
 
 Before running the application, first we need create necessary resources on LocalStack.
 
